@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e7ac809-2cb8-4cf9-9d6b-18af8fa4f004" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/availabilityChecker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/availability_checker.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="utility.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="availabilityChecker.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="availabilityChecker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/availabilityChecker.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="371">
@@ -50,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="15">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -96,6 +94,7 @@
         <option value="$PROJECT_DIR$/.idea/availability_checker.py" />
         <option value="$PROJECT_DIR$/availability_checker.py" />
         <option value="$PROJECT_DIR$/availabilityChecker.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -826,12 +825,12 @@
       <option name="presentableId" value="Default" />
       <updated>1478020204748</updated>
       <workItem from="1478020208561" duration="117000" />
-      <workItem from="1478020347076" duration="1367000" />
+      <workItem from="1478020347076" duration="1797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1484000" />
+    <option name="totallyTimeSpent" value="1914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -900,14 +899,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/#availability_checker.py#" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/http.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -935,6 +926,14 @@
           <folding>
             <marker date="1478022139000" expanded="true" signature="1306:1323" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
